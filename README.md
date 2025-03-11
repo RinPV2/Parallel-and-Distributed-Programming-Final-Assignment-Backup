@@ -1,6 +1,8 @@
 # Final Report Backup
 
-This repository contains the backup of my final report for the course "並列分散プログラミング" (Parallel and Distributed Programming) offered by the Graduate School of Information Science and Technology, course code 4860-1079. The final report was submitted as part of the course requirements and earned an **Excellent** grade.
+This repository contains the backup of my final report for the course "並列分散プログラミング" (Parallel and Distributed Programming) offered by the Graduate School of Information Science and Technology, course code 4860-1079. The final report was submitted as part of the course requirements and earned an **Excellent** grade. The problem I aim to address in this project is the simulation of fluid dynamics using **Position-Based Fluids** (PBF).
+
+![alt text](output.gif)
 
 ## Environment Details
 
