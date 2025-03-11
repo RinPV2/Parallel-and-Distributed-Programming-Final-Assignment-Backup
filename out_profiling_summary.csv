@@ -1,0 +1,12 @@
+Function,Total Duration
+total,44.75233889
+find_neighbors,28.380947550000005
+substep,13.133029219999996
+compute_position,4.916577750000004
+update_velocity,4.162747389999999
+compute_lambdas,3.9698477399999996
+output,2.7490372800000005
+update_grid,0.42251774
+apply_position,0.07783093999999997
+apply_gravity,0.03973696
+after_update,0.025094289999999988
